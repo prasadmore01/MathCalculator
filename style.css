@@ -1,13 +1,13 @@
 body{
     padding: 20px;
     margin: 20px;
-    overflow:hidden;
+   
 }
 
 .calcu{
+    width: 400px;
     position: relative;
-    left: 500px;
-    overflow:hidden;
+    
 }
 
 h1{
