@@ -1,0 +1,65 @@
+body{
+    padding: 20px;
+
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.calcu{
+    
+    
+}
+
+h1{
+    /* text-align: center; */
+    font-size: 50px;
+    font-weight: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1:hover{
+    color: blueviolet;
+}
+
+input{
+    padding: 20px 74px;
+    border: 2px solid gray;
+    color: black;
+    font-size: 20px;
+
+}
+
+.btns{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 0px;
+}
+
+button{
+    width: 150px;
+    background-color: gray;
+    color: white;
+    font-size: 20px;
+    padding: 20px 5px;
+    /* margin-right: 20px; */
+    border-radius: 20px;
+  
+}
+
+button:hover{
+    background-color: blueviolet;
+}
+
+span{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+    color: green;
+    margin-left: 45px;
+    padding-top: 40px;
+}
